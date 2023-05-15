@@ -6,8 +6,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kai-0307&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-# Favorite　Languages　
-[![My Skills](https://skillicons.dev/icons?i=go,rust,cs,ts,ruby,rails)](https://skillicons.dev)
+# Favorite Languages　
+[![My Skills](https://skillicons.dev/icons?i=go,rust,cs,unity,ts,ruby,rails)](https://skillicons.dev)
 
 # Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,github,postman)](https://skillicons.dev)
