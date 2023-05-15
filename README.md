@@ -5,3 +5,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kai-0307&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+# Languages&Tools
+[![My Skills](https://skillicons.dev/icons?i=go,rust,c#,html,css,docker,ts,rails)](https://skillicons.dev)
