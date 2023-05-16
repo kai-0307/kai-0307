@@ -7,7 +7,7 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 # Favorite Languages　
-[![My Skills](https://skillicons.dev/icons?i=go,rust,cs,unity,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,cs,ts,)](https://skillicons.dev)
 
 # Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode)](https://skillicons.dev)
