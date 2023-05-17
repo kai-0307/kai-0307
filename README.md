@@ -10,4 +10,4 @@
 [![My Skills](https://skillicons.dev/icons?i=go,rust,cs,unity,ts,)](https://skillicons.dev)
 
 # Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode,postgres)](https://skillicons.dev)
