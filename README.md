@@ -11,3 +11,6 @@
 
 # Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode,postgres)](https://skillicons.dev)
+
+# Others
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,)](https://skillicons.dev)
