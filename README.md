@@ -14,4 +14,4 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode,postgres,graphql,discord)](https://skillicons.dev)
 
 # Others
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,ts,react,next,rails)](https://skillicons.dev)
