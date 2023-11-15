@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
 # Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode,postgres,graphql,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode,graphql,discord)](https://skillicons.dev)
 
 # Others
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,ts,react,next,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,ts,react,next,rails,postgres,mysql)](https://skillicons.dev)
