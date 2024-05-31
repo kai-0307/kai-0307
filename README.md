@@ -8,7 +8,7 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 # Languages　
-[![My Skills](https://skillicons.dev/icons?i=go,ts,react,next,rails,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rails,mysql)](https://skillicons.dev)
 
 # Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode,graphql,discord)](https://skillicons.dev)
