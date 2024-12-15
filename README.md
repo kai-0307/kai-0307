@@ -7,8 +7,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kai-0307&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-# Languages　
+# Skills　
 [![My Skills](https://skillicons.dev/icons?i=go,rails,mysql)](https://skillicons.dev)
+
+# DB
+[![My Skills](https://skillicons.dev/icons?i=mysql,pg)](https://skillicons.dev)
+
 
 # Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode,graphql,discord)](https://skillicons.dev)
