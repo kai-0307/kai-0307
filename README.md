@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=go,rails)](https://skillicons.dev)
 
 # DB
-[![My Skills](https://skillicons.dev/icons?i=mysql,pg)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 
 # Tools
