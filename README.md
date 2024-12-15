@@ -13,6 +13,8 @@
 # DB
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
+# Others
+[![My Skills](https://skillicons.dev/icons?i=ts,next)](https://skillicons.dev)
 
 # Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode,graphql,discord)](https://skillicons.dev)
