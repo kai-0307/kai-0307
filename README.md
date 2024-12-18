@@ -8,10 +8,7 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 # Skills　
-[![My Skills](https://skillicons.dev/icons?i=go,rails)](https://skillicons.dev)
-
-# DB
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rails,mysql,postgres)](https://skillicons.dev)
 
 # Others
 [![My Skills](https://skillicons.dev/icons?i=ts,next)](https://skillicons.dev)
