@@ -10,10 +10,7 @@ https://kaicode.vercel.app
 </p>
  
 # Skills　
-[![My Skills](https://skillicons.dev/icons?i=go,rails,mysql,postgres)](https://skillicons.dev)
-
-# Others
-[![My Skills](https://skillicons.dev/icons?i=ts,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rails,ts,next,mysql,postgres,aws)](https://skillicons.dev)
 
 # Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode,graphql,discord)](https://skillicons.dev)
