@@ -22,4 +22,4 @@ https://kaicode.vercel.app
 
 
 # Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode,graphql,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode,discord)](https://skillicons.dev)
