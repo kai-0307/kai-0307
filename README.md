@@ -12,7 +12,7 @@ https://kaicode.vercel.app
 # Skills　
 
 ## backend
-[![My Skills](https://skillicons.dev/icons?i=go,rails,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,mysql,postgres)](https://skillicons.dev)
 
 ## frontend
 [![My Skills](https://skillicons.dev/icons?i=ts,next)](https://skillicons.dev)
