@@ -20,7 +20,9 @@
 </p>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kai-0307&include_all_commits&count_private=true)](https://github.com/topi0247/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kai-0307&layout=compact&langs_count=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kai-0307&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kai-0307&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kai-0307&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kai-0307&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kai-0307&theme=dark)
