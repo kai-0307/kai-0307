@@ -33,9 +33,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kai-0307&theme=dark&utcOffset=9)
 
 
-# Portfolio Website
-
-https://kaicode.vercel.app
  
 # Skills　
 
