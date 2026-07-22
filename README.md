@@ -1,50 +1,58 @@
-<a target="_blank" href="https://www.buymeacoffee.com/egon">
-  <img width="100px" alt="Buy me a Coffee" src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif">
-</a>
+# Hi there 👋
 
-<a target="_blank" href="https://www.buymeacoffee.com/egon">
-  <img width="100px" alt="Buy me a Coffee" src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/aww.gif">
-</a>
+```go
+package github
 
-# Stats
-<p align="left">
-  <a href="https://github.com/kai-0307">
-    <img height="20" src="https://komarev.com/ghpvc/?username=kai-0307" />
-  </a>
-  <a href="https://github.com/kai-0307">
-    <img height="20" src="https://img.shields.io/github/followers/kai-0307?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://zenn.dev/kaicode">
-    <img height="20" src="https://badgen.org/img/zenn/kaicode/articles?style=plastic" />
-  </a>
-</p>
+type Engineer struct {
+	Name       string
+	Role       string
+	Location   string
+	Languages  []string
+	Frameworks []string
+	Cloud      []string
+	Database   []string
+	Currently  []string
+	Interests  []string
+}
 
+var Kai = Engineer{
+	Name:     "Kai Nakao",
+	Role:     "Software Engineer",
+	Location: "Tokyo, Japan",
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kai-0307&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+	Languages: []string{
+		"Go",
+		"TypeScript",
+		"Python",
+		"Ruby",
+	},
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kai-0307&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+	Frameworks: []string{
+		"Gin",
+		"Echo",
+		"Next.js",
+		"React",
+		"Ruby on Rails",
+	},
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kai-0307&theme=dark)
+	Cloud: []string{
+		"AWS",
+	},
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kai-0307&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kai-0307&theme=dark)
+	Database: []string{
+		"MySQL",
+		"PostgreSQL",
+	},
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kai-0307&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kai-0307&theme=dark&utcOffset=9)
+	Currently: []string{
+		"Building scalable backend services",
+		"Learning cloud architecture",
+	},
 
-
- 
-# Skills　
-
-## backend
-[![My Skills](https://skillicons.dev/icons?i=go,mysql,postgres)](https://skillicons.dev)
-
-## frontend
-[![My Skills](https://skillicons.dev/icons?i=ts,next)](https://skillicons.dev)
-
-## infra
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-
-
-# Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,github,postman,vscode,discord)](https://skillicons.dev)
+	Interests: []string{
+		"Backend",
+		"Cloud",
+		"Security",
+	},
+}
+```
