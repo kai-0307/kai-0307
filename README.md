@@ -1,4 +1,3 @@
-# Hi there 👋
 
 ```go
 package github
