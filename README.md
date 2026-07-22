@@ -10,7 +10,6 @@ type Engineer struct {
 	Frameworks []string
 	Cloud      []string
 	Database   []string
-	Currently  []string
 	Interests  []string
 }
 
@@ -41,11 +40,6 @@ var Kai = Engineer{
 	Database: []string{
 		"MySQL",
 		"PostgreSQL",
-	},
-
-	Currently: []string{
-		"Building scalable backend services",
-		"Learning cloud architecture",
 	},
 
 	Interests: []string{
