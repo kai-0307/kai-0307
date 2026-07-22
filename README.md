@@ -25,7 +25,7 @@ func NewEngineer() *Engineer {
 	return &Engineer{
 		Name:       "Kai Nakao",
 		Role:       "Software Engineer",
-		Stack:      []string{"Go", "Python", "TypeScript", "Next.js", "AWS"},
+		Stack:      []string{"Go", "Python", "TypeScript", "Next.js", "PostgreSQL", "AWS"},
 		Interests:  []string{"Backend", "Cloud", "Security"},
 		Status:     "Always Learning",
 	}
