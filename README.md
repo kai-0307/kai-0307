@@ -1,3 +1,24 @@
+<a href="https://www.buymeacoffee.com/egon" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif"
+    width="100"
+    alt="Dancing Gopher">
+</a>
+
+<a href="https://www.buymeacoffee.com/egon" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif"
+    width="100"
+    alt="Dancing Gopher">
+</a>
+
+<a href="https://www.buymeacoffee.com/egon" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif"
+    width="100"
+    alt="Dancing Gopher">
+</a>
+
 
 ```go
 package github
